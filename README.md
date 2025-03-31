@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects👨‍💻:</h2>
 
-- <b>WordChase|_Python<_/b>
+- <b>WordChase|Python</b>
   - [WordChase](#)
 - <b>Data Analysis</b>
   - [Data Analysis of Temozolomide’s Effect on Cell Growth Using Jupyter Notebook](##)
