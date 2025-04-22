@@ -5,7 +5,9 @@
 - <b>WordChase|Python</b>
   - [WordChase](#)
 - <b>Data Analysis</b>
+  - [Data Analysis of CO₂ Emissions by Country (2022) Using Python](https://github.com/lotsueugene/emissions-data-scraper)
   - [Data Analysis of Temozolomide’s Effect on Cell Growth Using Jupyter Notebook](##)
+ 
 
 <h2>Resume📕</h2>
 
