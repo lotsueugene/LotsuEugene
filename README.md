@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects👨‍💻:</h2>
 
 - <b>WordChase|Python</b>
-  - [WordChase(Yet to push)](#)
+  - [WordChase(Yet to push)](https://github.com/lotsueugene/wordchase)
 - <b>Data Analysis|Python</b>
   - [Data Analysis of CO₂ Emissions by Country (2022) Using Python(pushed)](https://github.com/lotsueugene/emissions-data-scraper)
   - [Data Analysis of Temozolomide’s Effect on Cell Growth Using Jupyter Notebook(yet to push)](##)
