@@ -21,7 +21,7 @@
 [<img align="left" alt="lotsueugene | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="lotsueugene | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/cryptheseer
+[twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/cryptheseer/
 [linkedin]: https://linkedin.com/in/lotsueugene
 
