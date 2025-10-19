@@ -14,6 +14,11 @@
 - [Click Here](https://drive.google.com/drive/folders/1vntbgoAcMPZxdzQOEk5zIXmcPZ-vZy3T)
 
 
+<h2>Certificates🏅</h2>
+
+- [Click Here](https://drive.google.com/drive/folders/1CHWZFkbR6Ue3g67Jjx1s5A5p42aRUQFR?usp=share_link)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 
