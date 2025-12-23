@@ -1,14 +1,14 @@
 <h1>Hi, I'm Eugene! <br/><a href="https://github.com/lotsueugene">Programmer</a>, <a href="https://www.linkedin.com/in/lotsueugene/">Computer Science Major</a></h1>
 
 <h2>👨‍💻Projects👨‍💻:</h2>
-
+- <b>Bookbot|Python</b>
+  - [Bookbot](https://github.com/lotsueugene/bookbot)
 - <b>WordChase|Python</b>
   - [WordChase](https://github.com/lotsueugene/wordchase)
 - <b>Data Analysis|Python</b>
   - [Data Analysis of CO₂ Emissions by Country (2022) Using Python](https://github.com/lotsueugene/emissions-data-scraper)
   - [Data Analysis of Temozolomide’s Effect on Cell Growth Using Jupyter Notebook(yet to push)](##)
-- <b>Bookbot|Python</b>
-  - [Bookbot](https://github.com/lotsueugene/bookbot)
+
 
 <h2>Resume📕</h2>
 
