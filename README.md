@@ -7,7 +7,8 @@
 - <b>Data Analysis|Python</b>
   - [Data Analysis of CO₂ Emissions by Country (2022) Using Python](https://github.com/lotsueugene/emissions-data-scraper)
   - [Data Analysis of Temozolomide’s Effect on Cell Growth Using Jupyter Notebook(yet to push)](##)
- 
+- <b>Bookbot|Python</b>
+  - [Bookbot](https://github.com/lotsueugene/bookbot)
 
 <h2>Resume📕</h2>
 
