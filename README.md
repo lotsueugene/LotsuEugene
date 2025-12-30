@@ -4,9 +4,8 @@
 
   - [AI-AGENT](https://github.com/lotsueugene/ai-agent-gemini)
   - [Bookbot](https://github.com/lotsueugene/bookbot)
-  - [WordChase](https://github.com/lotsueugene/wordchase)
   - [Data Analysis of CO₂ Emissions by Country (2022) Using Python](https://github.com/lotsueugene/emissions-data-scraper)
-  - [Data Analysis of Temozolomide’s Effect on Cell Growth Using Jupyter Notebook(yet to push)](##)
+
 
 
 <h2>Resume📕</h2>
