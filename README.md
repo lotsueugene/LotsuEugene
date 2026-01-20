@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects👨‍💻:</h2>
 
-  - [Mern Authentication API](https://github.com/lotsueugene/mern-auth-api)
+  - [MERN Authentication API](https://github.com/lotsueugene/mern-auth-api)
   - [AI-AGENT](https://github.com/lotsueugene/ai-agent-gemini)
   - [Bookbot](https://github.com/lotsueugene/bookbot)
 
