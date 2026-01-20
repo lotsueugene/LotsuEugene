@@ -1,10 +1,10 @@
 <h1>Hi, I'm Eugene! <br/><a href="https://github.com/lotsueugene">Programmer</a>, <a href="https://www.linkedin.com/in/lotsueugene/">Computer Science Major</a></h1>
 
-<h2>👨‍💻Python Projects👨‍💻:</h2>
+<h2>👨‍💻Projects👨‍💻:</h2>
 
   - [AI-AGENT](https://github.com/lotsueugene/ai-agent-gemini)
   - [Bookbot](https://github.com/lotsueugene/bookbot)
-  - [Data Analysis of CO₂ Emissions by Country (2022) Using Python](https://github.com/lotsueugene/emissions-data-scraper)
+  - [Mern Authentication API](https://github.com/lotsueugene/mern-auth-api)
 
 
 
