@@ -1,6 +1,7 @@
 <h1>Hi, I'm Eugene! <br/><a href="https://github.com/lotsueugene">Programmer</a>, <a href="https://www.linkedin.com/in/lotsueugene/">Computer Science Major</a></h1>
 
 <h2>AWS 10,000 AIdeas Competition:</h2>
+
   - [Build4Me](https://github.com/lotsueugene/build4me-app)
 
 
