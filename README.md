@@ -7,16 +7,9 @@
 
 <h2>👨‍💻 Projects</h2>
 
-<h3>🏗️ AI Construction Verification Platform | Build4Me</h3>
+<h3>Forma — Open-source Form Builder</h3>
 <ul>
-  <li>Built a serverless AI verification system using AWS Lambda, API Gateway, DynamoDB, and S3</li>
-  <li>Engineered AI pipeline combining computer vision (Amazon Rekognition), LLM reasoning (Amazon Bedrock), and GPS validation (Amazon Location Service)</li>
-  <li>Developed full-stack app (Next.js + TypeScript) with role-based dashboards for 4 user types</li>
-  <li>Implemented secure authentication using Cognito, JWT, and pre-signed S3 uploads</li>
-</ul>
-
-<h3>🧠 Forma — Open-source Form Builder</h3>
-<ul>
+  <li><a href="https://github.com/lotsueugene/forma">Click Here</a></li>
   <li>Built full-stack form builder (Typeform-style) supporting 18+ field types</li>
   <li>Designed conversational form engine to improve completion rates</li>
   <li>Integrated Stripe Connect for payments and subscriptions</li>
@@ -24,8 +17,17 @@
   <li>Implemented integrations with Slack, Google Sheets, and webhooks via Resend</li>
 </ul>
 
-<h3>🔌 RESTful API | Build4Me Backend</h3>
+<h3> AI Construction Verification Platform | Build4Me</h3>
 <ul>
+  <li>Built a serverless AI verification system using AWS Lambda, API Gateway, DynamoDB, and S3</li>
+  <li>Engineered AI pipeline combining computer vision (Amazon Rekognition), LLM reasoning (Amazon Bedrock), and GPS validation (Amazon Location Service)</li>
+  <li>Developed full-stack app (Next.js + TypeScript) with role-based dashboards for 4 user types</li>
+  <li>Implemented secure authentication using Cognito, JWT, and pre-signed S3 uploads</li>
+</ul>
+
+<h3>RESTful API | Build4Me Backend</h3>
+<ul>
+  <li><a href="https://github.com/lotsueugene/build4me_api">Click Here</a></li>
   <li>Designed scalable backend with 23 RESTful endpoints for 4 user roles</li>
   <li>Implemented JWT-based authentication and role-based access control</li>
   <li>Built normalized relational data models</li>
@@ -34,6 +36,7 @@
 
 <h3>🤖 Configurable Automation Agent</h3>
 <ul>
+  <li><a href="https://github.com/lotsueugene/ai-agent-gemini">Click Here</a></li>
   <li>Built modular Python agent for multi-step task execution with persistent state</li>
   <li>Designed secure sandbox for file operations and Python execution</li>
   <li>Implemented loop-based orchestration for dynamic planning and self-correction</li>
@@ -42,7 +45,7 @@
 
 <h3>📊 CO₂ Emissions Data Analysis</h3>
 <ul>
-  <li><a href="https://github.com/lotsueugene/emissions-data-scraper">emissions-data-scraper</a></li>
+  <li><a href="https://github.com/lotsueugene/emissions-data-scraper">Click Here</a></li>
   <li>Scraped global CO₂ emissions data from Worldometers using Python</li>
   <li>Stored and queried data using SQLite</li>
   <li>Performed statistical analysis and visualizations to explore emissions vs population trends</li>
@@ -53,7 +56,6 @@
 <h2>⚙️ Additional Projects</h2>
 
 - <a href="https://github.com/lotsueugene/mern-auth-api">MERN Authentication API</a>  
-- <a href="https://github.com/lotsueugene/ai-agent-gemini">AI Agent</a>  
 - <a href="https://github.com/lotsueugene/bookbot">Bookbot</a>  
 
 ---
@@ -96,12 +98,6 @@
 
 ---
 
-<h2>LeetCode Progress</h2>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/eugenelotsu?theme=light&font=Flamenco)
-
----
-
 <h2>📕 Resume</h2>
 
 - <a href="https://drive.google.com/drive/folders/1vntbgoAcMPZxdzQOEk5zIXmcPZ-vZy3T">Click Here</a>
@@ -131,6 +127,12 @@
 <br/><br/>
 
 ---
+
+<!-- <h2>LeetCode Progress</h2>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/eugenelotsu?theme=light&font=Flamenco)
+
+--- -->
 
 <!--
 Future Improvements:
