@@ -34,7 +34,7 @@
   <li>Achieved reliability with 31 automated Jest/Supertest tests</li>
 </ul>
 
-<h3>🤖 Configurable Automation Agent</h3>
+<h3>Configurable Automation Agent</h3>
 <ul>
   <li><a href="https://github.com/lotsueugene/ai-agent-gemini">Click Here</a></li>
   <li>Built modular Python agent for multi-step task execution with persistent state</li>
@@ -43,7 +43,7 @@
   <li>Achieved 100% pass rate across automated program verification tests</li>
 </ul>
 
-<h3>📊 CO₂ Emissions Data Analysis</h3>
+<h3>CO₂ Emissions Data Analysis</h3>
 <ul>
   <li><a href="https://github.com/lotsueugene/emissions-data-scraper">Click Here</a></li>
   <li>Scraped global CO₂ emissions data from Worldometers using Python</li>
@@ -53,7 +53,7 @@
 
 ---
 
-<h2>⚙️ Additional Projects</h2>
+<h2>Additional Projects</h2>
 
 - <a href="https://github.com/lotsueugene/mern-auth-api">MERN Authentication API</a>  
 - <a href="https://github.com/lotsueugene/bookbot">Bookbot</a>  
